@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "updatedAt": "2026-10-23",
   "title": "KaraBox Resources",
-  "description": "Public catalog for resources that are currently present in the repository. Large media files use Git LFS.",
+  "description": "Public catalog for authorized KaraBox resources. Background videos and the SoundFont are stored with Git LFS and use direct media URLs. Proprietary SongHub index files are intentionally excluded.",
   "resources": [
     {
       "id": "background-photo-1",
@@ -36,99 +36,88 @@
       "name": "3D Background 1",
       "category": "3D Background Videos",
       "path": "bgv/3D/sayaw1.mp4",
-      "url": "https://raw.githubusercontent.com/kodenothing/karabox/main/bgv/3D/sayaw1.mp4",
-      "targetPath": "bgv/3D/sayaw1.mp4",
-      "sizeBytes": 0
+      "url": "https://media.githubusercontent.com/media/kodenothing/karabox/main/bgv/3D/sayaw1.mp4",
+      "targetPath": "bgv/3D/sayaw1.mp4"
     },
     {
       "id": "background-3d-sayaw2",
       "name": "3D Background 2",
       "category": "3D Background Videos",
       "path": "bgv/3D/sayaw2.mp4",
-      "url": "https://raw.githubusercontent.com/kodenothing/karabox/main/bgv/3D/sayaw2.mp4",
-      "targetPath": "bgv/3D/sayaw2.mp4",
-      "sizeBytes": 0
+      "url": "https://media.githubusercontent.com/media/kodenothing/karabox/main/bgv/3D/sayaw2.mp4",
+      "targetPath": "bgv/3D/sayaw2.mp4"
     },
     {
       "id": "background-motion-1",
       "name": "Motion Background 1",
       "category": "Motion Background Videos",
       "path": "bgv/Motion/motion1.mp4",
-      "url": "https://raw.githubusercontent.com/kodenothing/karabox/main/bgv/Motion/motion1.mp4",
-      "targetPath": "bgv/Motion/motion1.mp4",
-      "sizeBytes": 0
+      "url": "https://media.githubusercontent.com/media/kodenothing/karabox/main/bgv/Motion/motion1.mp4",
+      "targetPath": "bgv/Motion/motion1.mp4"
     },
     {
       "id": "background-motion-2",
       "name": "Motion Background 2",
       "category": "Motion Background Videos",
       "path": "bgv/Motion/motion2.mp4",
-      "url": "https://raw.githubusercontent.com/kodenothing/karabox/main/bgv/Motion/motion2.mp4",
-      "targetPath": "bgv/Motion/motion2.mp4",
-      "sizeBytes": 0
+      "url": "https://media.githubusercontent.com/media/kodenothing/karabox/main/bgv/Motion/motion2.mp4",
+      "targetPath": "bgv/Motion/motion2.mp4"
     },
     {
       "id": "background-motion-3",
       "name": "Motion Background 3",
       "category": "Motion Background Videos",
       "path": "bgv/Motion/motion3.mp4",
-      "url": "https://raw.githubusercontent.com/kodenothing/karabox/main/bgv/Motion/motion3.mp4",
-      "targetPath": "bgv/Motion/motion3.mp4",
-      "sizeBytes": 0
+      "url": "https://media.githubusercontent.com/media/kodenothing/karabox/main/bgv/Motion/motion3.mp4",
+      "targetPath": "bgv/Motion/motion3.mp4"
     },
     {
       "id": "background-motion-4",
       "name": "Motion Background 4",
       "category": "Motion Background Videos",
       "path": "bgv/Motion/motion4.mp4",
-      "url": "https://raw.githubusercontent.com/kodenothing/karabox/main/bgv/Motion/motion4.mp4",
-      "targetPath": "bgv/Motion/motion4.mp4",
-      "sizeBytes": 0
+      "url": "https://media.githubusercontent.com/media/kodenothing/karabox/main/bgv/Motion/motion4.mp4",
+      "targetPath": "bgv/Motion/motion4.mp4"
     },
     {
       "id": "background-nature-1",
       "name": "Nature Background 1",
       "category": "Nature Background Videos",
       "path": "bgv/Nature/Video1.mp4",
-      "url": "https://raw.githubusercontent.com/kodenothing/karabox/main/bgv/Nature/Video1.mp4",
-      "targetPath": "bgv/Nature/Video1.mp4",
-      "sizeBytes": 53820000
+      "url": "https://media.githubusercontent.com/media/kodenothing/karabox/main/bgv/Nature/Video1.mp4",
+      "targetPath": "bgv/Nature/Video1.mp4"
     },
     {
       "id": "background-nature-2",
       "name": "Nature Background 2",
       "category": "Nature Background Videos",
       "path": "bgv/Nature/Video2.mp4",
-      "url": "https://raw.githubusercontent.com/kodenothing/karabox/main/bgv/Nature/Video2.mp4",
-      "targetPath": "bgv/Nature/Video2.mp4",
-      "sizeBytes": 55740000
+      "url": "https://media.githubusercontent.com/media/kodenothing/karabox/main/bgv/Nature/Video2.mp4",
+      "targetPath": "bgv/Nature/Video2.mp4"
     },
     {
       "id": "background-nature-3",
       "name": "Nature Background 3",
       "category": "Nature Background Videos",
       "path": "bgv/Nature/Video3.mp4",
-      "url": "https://raw.githubusercontent.com/kodenothing/karabox/main/bgv/Nature/Video3.mp4",
-      "targetPath": "bgv/Nature/Video3.mp4",
-      "sizeBytes": 55010000
+      "url": "https://media.githubusercontent.com/media/kodenothing/karabox/main/bgv/Nature/Video3.mp4",
+      "targetPath": "bgv/Nature/Video3.mp4"
     },
     {
       "id": "background-nature-4",
       "name": "Nature Background 4",
       "category": "Nature Background Videos",
       "path": "bgv/Nature/Video4.mp4",
-      "url": "https://raw.githubusercontent.com/kodenothing/karabox/main/bgv/Nature/Video4.mp4",
-      "targetPath": "bgv/Nature/Video4.mp4",
-      "sizeBytes": 58630000
+      "url": "https://media.githubusercontent.com/media/kodenothing/karabox/main/bgv/Nature/Video4.mp4",
+      "targetPath": "bgv/Nature/Video4.mp4"
     },
     {
       "id": "midi-soundfont",
       "name": "MIDI SoundFont",
       "category": "MIDI Resources",
       "path": "sound/soundfont.sf2",
-      "url": "https://raw.githubusercontent.com/kodenothing/karabox/main/sound/soundfont.sf2",
-      "targetPath": "sound/soundfont.sf2",
-      "sizeBytes": 98574116
+      "url": "https://media.githubusercontent.com/media/kodenothing/karabox/main/sound/soundfont.sf2",
+      "targetPath": "sound/soundfont.sf2"
     }
   ]
 }
