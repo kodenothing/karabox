@@ -118,6 +118,22 @@
       "path": "sound/soundfont.sf2",
       "url": "https://media.githubusercontent.com/media/kodenothing/karabox/main/sound/soundfont.sf2",
       "targetPath": "sound/soundfont.sf2"
+    },
+    {
+      "id": "songhub-index-blob",
+      "name": "SongHub Blob Index",
+      "category": "Index Files",
+      "path": "idx/shubblob",
+      "url": "https://media.githubusercontent.com/media/kodenothing/karabox/main/idx/shubblob",
+      "targetPath": "idx/shubblob"
+    },
+    {
+      "id": "songhub-index-search",
+      "name": "SongHub Search Index",
+      "category": "Index Files",
+      "path": "idx/shubidx",
+      "url": "https://media.githubusercontent.com/media/kodenothing/karabox/main/idx/shubidx",
+      "targetPath": "idx/shubidx"
     }
   ]
 }
